@@ -10,8 +10,12 @@ This project is a real-time NBA game alert system that notifies subscribed users
 - Automates regular updates with Amazon EventBridge.
 - Designed with security best practices, ensuring IAM roles follow the principle of least privilege.
 
+<img width="250" alt="Screenshot 2025-01-07 at 16 39 45" src="https://github.com/user-attachments/assets/270b1880-5a78-4e0a-9d69-7ff32c25e604" />
+
+
+
 ## Technical Architecture
-<img width="679" alt="Screenshot 2025-01-07 at 13 43 40" src="https://github.com/user-attachments/assets/bc7ada9f-0ed1-4e7d-8235-147edc1cb340" />
+<img width="500" alt="Screenshot 2025-01-07 at 13 43 40" src="https://github.com/user-attachments/assets/bc7ada9f-0ed1-4e7d-8235-147edc1cb340" />
 
 
 ## Project Technologies
