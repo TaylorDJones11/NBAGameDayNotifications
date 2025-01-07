@@ -1,4 +1,4 @@
-# NBAGameDayNotifications 🏀
+# NBAGameDayNotifications 🏀 - Day 2
 
 This project is a real-time NBA game alert system that notifies subscribed users via SMS or email about live game scores. It uses AWS services like SNS, Lambda, and EventBridge, along with NBA APIs, to deliver up-to-date game information to basketball fans. The project highlights cloud computing concepts and efficient notification handling.
 
